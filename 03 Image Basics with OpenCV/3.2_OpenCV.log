@@ -1,0 +1,6 @@
+Wed Jul 27 11:19:13 2022 : INFO - cv2.imread() executed
+Wed Jul 27 11:19:13 2022 : INFO - Getting shape of Image
+Wed Jul 27 11:19:13 2022 : INFO - cv2.resize() executed
+Wed Jul 27 11:19:26 2022 : INFO - cv2.imshow() executed: 858 times
+Wed Jul 27 11:19:26 2022 : INFO - cv2.imshow() stopped
+Wed Jul 27 11:19:26 2022 : INFO - cv2.waitKey() executed
